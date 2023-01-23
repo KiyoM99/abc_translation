@@ -535,128 +535,105 @@ A鍵挑戰在接下來的兩年半中被世人遺忘了
 Pannenkoek2012原本只是這個遊戲影片的觀眾，
 
 0:14:34.740,0:14:39.300
-he started making his own mark in 2010 by 
-posting videos of getting all the coins
+但他從2010年開始製作一些拿到關卡內所有金幣的影片，
+獲得了一些關注。
 
 0:14:39.300,0:14:45.300
-available in every stage. But for some of them, 
-he posted the maximum possible score of 255,
+但在一些關卡中，他拿到的金幣數量是遊戲的顯示上限255個，
 
 0:14:45.300,0:14:49.860
-way above the actual coin count. He pulled 
-that off using a complex technique that
+比關卡中原本的金幣總量多很多。
+他使用了一種當時連他都還不太了解的複雜技巧。
 
 0:14:49.860,0:14:54.720
-even he didn’t fully understand at the time. 
-Unfortunately, the videos are pretty low quality:
+不幸的是，那些影片的畫質相當地低:
 
 0:14:54.720,0:14:58.740
-they were done with some free trial of a 
-screen capture software recording Project
+當時他是用一些免費試用版的螢幕錄製軟體錄影Project 64(N64模擬器)。
 
 0:14:58.740,0:15:03.960
-64. It could have been worse: it could have 
-been some hot garbage like we’ve seen before.
+這讓影片畫質非常糟糕，但跟當時其他的影片比起來還算好的了。
 
 0:15:03.960,0:15:09.780
-By 2013, he felt like he had figured out the 
-maximum coin count for every stage, so he moved
+時間是2013年，他覺得他已經把每一關的最大硬幣量弄清楚了，
 
 0:15:09.780,0:15:14.880
-on into a new direction. He began to investigate 
-all sorts of glitches, sharing his findings in a
+所以他決定研究新的議題。
+他開始研究遊戲中各種的bug，
 
 0:15:14.880,0:15:19.080
-couple dozen videos, until he felt like he had 
-accumulated enough knowledge to tackle the A
+用影片紀錄他的各種發現。
+直到某天，他感覺到他的知識量足夠嘗試A鍵挑戰了。
 
 0:15:19.080,0:15:24.840
-Button Challenge. On August 25th, he began a long 
-journey through every single star in the game one
+從8月25號開始，他發布了一連串的影片，紀錄遊戲中
 
 0:15:24.840,0:15:30.240
-by one, by posting an A Button Challenge video for 
-each and every one of them. Among the very first
+拿到每一個星星的所需A鍵數量。
 
 0:15:30.240,0:15:35.640
-ones he did were two Bob-omb Battlefield stars, 
-Shoot to the Island in the Sky and Find the 8 red
+最一開始的幾個影片包括兩個《炸彈戰場》的星星，
+【射向天空】跟【8紅幣】。
 
 0:15:35.640,0:15:40.440
-coins. The main issue with those stars is needing 
-to reach the floating island without using A,
+這兩個星星的要解決的主要問題在如何不按A到空島上，
 
 0:15:40.440,0:15:45.540
-and the strategy he came up with was absolutely 
-groundbreaking. While everyone else had been
+而他使用的策略可以是前所未見的。
 
 0:15:45.540,0:15:51.060
+當其他人都在玩沙的時候，Pannenkoek已經在蓋大樓了。
 playing checkers, Pannenkoek busted out the 4D 
 chess. This was the first stroke of a genius
 
 0:15:51.060,0:15:57.120
-so legendary that it would later earn him his 
-own Wikipedia page. This is the art of cloning.
+他一出手就驚天動地，天才的程度甚至讓他有了自己的維基百科條目。
+這是名為「克隆」的藝術。
 
 0:16:01.380,0:16:05.640
-It’s only natural that Pannenkoek’s first 
-major technical breakthrough came through
+很自然地，Pannenkoek第一個技術突破是使用
 
 0:16:05.640,0:16:10.080
-the use of a glitch that he spent years 
-mastering with maximum coin scores. Before
+他花了很多年在刷金幣精通的bug。
 
 0:16:10.080,0:16:14.220
-we delve into how this magic trick works, 
-we need to understand the cloning glitch
+在我們看他變魔術以前，需要先了解「克隆」這個bug
+到底是怎麼運作的。
 
 0:16:14.220,0:16:19.140
-and its underlying game mechanics. Buckle up 
-because it’s time for a game physics lesson.
+各位做好準備，現在是上一堂遊戲物理課的時間了。
 
 0:16:22.020,0:16:26.940
-Okay, a word of warning here: this is going to 
-be very long, but I do not recommend skipping
+注意事項；這邊會有一點長，但我不推薦跳過這段。
 
 0:16:26.940,0:16:31.860
-any of it. Cloning is to this day possibly the 
-single most capital technique of this challenge,
+「克隆」可能是A鍵挑戰直至今日為止最最重要的一個技巧，
 
 0:16:31.860,0:16:35.820
-and skipping its explanation could leave 
-you pretty clueless for a sizeable chunk
+如果不了解它的運作原理可能會讓你後面很大一部分搞不懂。
 
 0:16:35.820,0:16:39.780
-of this history series. So take out 
-your textbooks and let’s get started.
+那麼請翻開課本，我們開始上課吧。
 
 0:16:42.240,0:16:49.500
-Before we get to it though, I need to point out 
-that Pannenkoek has already covered this subject
+在開始以前，我要說一下其實Pannenkoek的頻道已經
+有很詳細的影片教學了
 
-0:16:49.500,0:16:54.300
-in scrupulous detail before. In fact, pretty 
-much all the information on game mechanics
-
-0:16:54.300,0:16:58.620
-that I will ever tell you comes directly 
-from his past work. Look out in the bottom
+0:16:49.500,0:16:58.620
+事實上，這個影片幾乎所有的遊戲運作原理都是
+從他的影片整理出來的。
 
 0:16:58.620,0:17:02.100
-right corner of your screen for numbered 
-notes pointing to additional information
+我會在影片畫面下方做編號註記，提供一些更完整的解釋。
 
 0:17:02.100,0:17:06.420
-or clarifications. You can find a list of 
-all the notes in the video description,
+在影片的說明欄裡面有所有的註解跟專有名詞列表。
 
 0:17:06.420,0:17:10.260
-as well as a glossary of the technical 
-terms. There will also sometimes be
+並且如果提到一些先前講過的機制，會有時間註記
 
 0:17:10.260,0:17:13.920
-timestamps to earlier points in the video 
-if you need a refresher on a given topic.
+讓你忘記的話可以回去複習一下。
 
 0:17:13.920,0:17:19.560
 Cloning is made possible thanks to Mario’s ability 

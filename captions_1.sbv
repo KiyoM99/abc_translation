@@ -1,9 +1,9 @@
 0:00:00.060,0:00:07.980
-在1994年九月，日本任天堂開始製作超級馬利歐64。
+在1994年九月，日本任天堂開始製作超級馬力歐64。
 從最一開始，任天堂就已經做好了一個打算:
 
 0:00:07.980,0:00:18.780
-把馬利歐從2D變成3D開啟許多令人興奮的可能性，而其中
+把馬力歐從2D變成3D開啟許多令人興奮的可能性，而其中
 最重要的是他最具標誌性的能力:他的跳躍能力
 
 0:00:18.780,0:00:23.400
@@ -97,7 +97,7 @@
 後來發現是傳奇人物Alex Penev，當時最高產的N64遊戲玩家之一。
 
 0:03:05.340,0:03:10.020
-他在馬利歐賽車64的前十年創下了數以百計的世界紀錄，
+他在馬力歐賽車64的前十年創下了數以百計的世界紀錄，
 
 0:03:10.020,0:03:16.020
 並且直到今天還活躍在馬車社群中。
@@ -111,7 +111,7 @@ Penev跟Myles Bukrim, Jason Whalls和David Wonn
 (David Wonn也有自己的網頁關於N64遊戲的技巧跟bug)
 
 0:03:26.760,0:03:31.680
-他們一起創造了許多馬利歐64挑戰，像是:
+他們一起創造了許多馬力歐64挑戰，像是:
 不吃硬幣，帽子拿星星，不使用大砲拿星星，
 
 0:03:31.680,0:03:35.940
@@ -138,14 +138,14 @@ Alex的郵件有許多令人驚嘆的細節，
 往下跳收集硬幣，前撲並趕上移動平台往下的時間。
 
 0:04:05.340,0:04:10.020
-另一個例子，一樣在《雪山》中，【蹬牆跳真的有用】
+另一個例子，一樣在《雪山》中，【蹬牆跳有用】
 
 0:04:10.020,0:04:15.120
 策略是彈到這個spindrift上並按1次A鍵來跳到它的上面，
 
 0:04:15.120,0:04:20.340
 並且一直按著它不放。
-在空中旋轉時按著A鍵會讓馬利歐下落速度較慢。
+在空中旋轉時按著A鍵會讓馬力歐下落速度較慢。
 
 0:04:20.340,0:04:25.380
 使用這個緩降策略，馬力歐可以只用1xA就收集到這個星星。
@@ -240,7 +240,7 @@ Humantree的網站後來就下架了，也沒有頁面存檔可以看。
 沒有人想過那個最關鍵的問題:
 
 0:06:38.940,0:06:45.180
-要通關馬利歐64到底最少需要按幾次A鍵?
+要通關馬力歐64到底最少需要按幾次A鍵?
 許多年過去了，這個問題都沒人解答。
 
 0:06:45.840,0:06:51.240
@@ -381,7 +381,7 @@ EnNopp112, SilentSlayers, sonicpacker以及Robert Z等等。
 然後是壞消息:所有星星都是分開計算的。
 
 0:09:55.080,0:09:58.920
-因為拿到每一關的【100硬幣星星】不會把馬利歐給踢出關卡，
+因為拿到每一關的【100硬幣星星】不會把馬力歐給踢出關卡，
 如果把它跟關卡裡的其他星星一起收集，
 
 0:09:58.920,0:10:04.020
@@ -410,7 +410,7 @@ Hazy Maze Cave and the Metal Cap course require 
 one A press each to access. Rainbow Ride,
 
 0:10:33.360,0:10:37.860
-《彩虹飛毯》《飛越彩虹的馬利歐》《消失帽》跟《天上的庫巴》各需要2xA。
+《彩虹飛毯》《飛越彩虹的馬力歐》《消失帽》跟《天上的庫巴》各需要2xA。
 
 
 0:10:37.860,0:10:43.080
@@ -583,8 +583,6 @@ Pannenkoek2012原本只是這個遊戲影片的觀眾，
 
 0:15:45.540,0:15:51.060
 當其他人都在玩沙的時候，Pannenkoek已經在蓋大樓了。
-playing checkers, Pannenkoek busted out the 4D 
-chess. This was the first stroke of a genius
 
 0:15:51.060,0:15:57.120
 他一出手就驚天動地，天才的程度甚至讓他有了自己的維基百科條目。
@@ -597,7 +595,7 @@ chess. This was the first stroke of a genius
 他花了很多年在刷金幣精通的bug。
 
 0:16:10.080,0:16:14.220
-在我們看他變魔術以前，需要先了解「克隆」這個bug
+在我們看他變魔術以前，需要先了解「克隆」，也就是複製物品，這個bug
 到底是怎麼運作的。
 
 0:16:14.220,0:16:19.140
@@ -635,753 +633,622 @@ chess. This was the first stroke of a genius
 0:17:10.260,0:17:13.920
 讓你忘記的話可以回去複習一下。
 
-0:17:13.920,0:17:19.560
-馬利歐在拿起物品的時候
-Cloning is made possible thanks to Mario’s ability 
-to grab objects. When Mario grabs an object,
-
-0:17:19.560,0:17:24.240
-what you see in his hands is actually a visual 
-copy of the object he’s holding. The real
+0:17:13.920,0:17:24.240
+「克隆」源自於馬力歐在拿起物品的時候，他手中你看到的物品
+其實是原本物品的複製品。
 
 0:17:24.240,0:17:29.820
-object is made invisible and usually intangible 
-until Mario releases it. We’ll call these the
+原本的物品在馬力歐放開它以前都會是隱形且通常無法接觸。
 
 0:17:29.820,0:17:34.740
-original object and the held object. Because the 
-original object still exists and is still loaded,
+讓我們稱呼它們為「原物」跟「手中物」。
+因為原物其實還存在並且有被載入，
 
 0:17:34.740,0:17:39.540
-but it simply cannot be interacted with, we 
-refer to it as being in limbo. Its animation
+它只是沒辦法跟馬力歐互動，我們稱它處於「停滯」狀態。
 
 0:17:39.540,0:17:44.640
-data is still being updated, but it’s no longer 
-being rendered. Meanwhile, the held object is an
+遊戲還是會更新它的動畫資料，只是不會顯示它。
 
 0:17:44.640,0:17:49.140
-illusion cobbled together from three different 
-sources: its position is tracked independently,
+在此同時，手中物的影像會根據三個資料產生:
+遊戲會追蹤它的位置；
 
 0:17:49.140,0:17:53.340
-its rotation is copied over from Mario’s 
-rotation, and its animation is copied
+手中物的旋轉角度跟馬力歐的角度一樣；
+而它的動畫則隨原物的狀態變化。
 
 0:17:53.340,0:17:58.080
-from the original object. What happens with the 
-original object’s position depends on what type
+根據原物的不同，它的位置也可能改變。
 
 0:17:58.080,0:18:03.540
-of object it is. Some stay in place, and some 
-follow Mario around at or near his position.
+有些會留在原處；有些會跟著馬力歐移動或跟在他附近。
 
 0:18:03.540,0:18:09.240
-An interesting case to look at is the 
-bob-omb. Its fuse is lit when Mario grabs it,
+一個有趣的例子是炸彈:
+馬力歐拿起炸彈的時候引線會被點燃，
 
 0:18:09.240,0:18:15.000
-which causes it to start smoking. Because the held 
-object is just a visual copy, it’s not capable of
+於是我們可以看到冒煙的特效。
+因為手中物只是複製影像而已，它其實不會產生冒煙的特效。
 
 0:18:15.000,0:18:20.520
-generating smoke particles. The original object 
-is kept close to where the visual copy is so that
+我們看得的煙霧是從原物來的:
+原本(隱形的)炸彈的位置會跟著複製影像一起移動
 
 0:18:20.520,0:18:24.720
-the smoke particles coming out of the invisible 
-bob-omb appear to be coming out of the bob-omb
+使得煙霧看起來像是從複製影像冒出來的。
 
 0:18:24.720,0:18:30.000
-Mario is holding. Additionally, bob-ombs are an 
-exception in that they stay tangible when held.
+另外，炸彈是原物在被抓住的時候，
+馬力歐還是能跟它接觸的一個少數例外。
 
 0:18:30.000,0:18:35.160
-And that is the root cause of the bloated bob-omb 
-glitch. For a few frames before it explodes,
+這造成了膨脹炸彈的bug。
+在炸彈爆炸的幾幀前，
 
 0:18:35.160,0:18:40.140
-a bob-omb dramatically increases in size. 
-If Mario grabs it at the right moment,
+炸彈會明顯的膨脹。
+如果馬力歐在對的時間抓住它，
 
 0:18:40.140,0:18:44.700
-he can hold it in its bloated state. Mario 
-is then pushed back by the collision with
+他就可以抓住一顆膨脹的炸彈。
+馬力歐就會被膨脹的炸彈往後推動，
 
 0:18:44.700,0:18:49.140
-the invisible bloated bob-omb, and it will keep 
-following him around so long as he’s holding it.
+並且只要馬力歐不放開它，那顆炸彈就會一直跟著他移動。
 
 0:18:49.140,0:18:54.900
-But what happens if Mario grabs the bob-omb while 
-it’s exploding? Well, this is where it gets fun.
+但是如果馬力歐在炸彈爆炸的同時抓住它會怎樣?
+這裡就是事情開始變好玩的地方了。
 
 0:18:54.900,0:19:00.720
-But before we get there, we need to understand 
-how grabbing and releasing an object works. When
+但在那之前，我們要先講講抓住跟放開物品到底是怎麼運作的。
 
 0:19:00.720,0:19:06.120
-Mario grabs an object, multiple things need to 
-happen. First, the object is established as the
+當馬力歐抓住一個物品，遊戲會檢查一些東西。
+首先，遊戲會把那個物品標記為馬力歐要抓的對象。
 
-0:19:06.120,0:19:11.040
-target of the grab. Then, Mario’s state needs to 
-be changed to holding an object, and the object
+0:19:06.120,0:19:19.040
+然後馬力歐會被設定成有拿著東西的狀態，
 
-0:19:11.040,0:19:15.780
-itself needs to change its state to being held, 
-which turns it invisible and intangible - again,
+0:19:19.040,0:19:15.780
+並且那個物品會被設定成被拿著的狀態。
+在多數情況下，同時把原物改成隱形且無法接觸的狀態。
 
 0:19:15.780,0:19:20.340
-most of the time. For this whole process to 
-function properly, Mario and the original
+為了讓整個過程可以正常運作，馬力歐必須要能跟
 
 0:19:20.340,0:19:24.780
-object need to be linked somehow, otherwise 
-Mario could never retrieve an object in limbo.
+原物有某種聯繫，不然在停滯狀態的原物就永遠沒辦法被拿回來了。
 
 0:19:24.780,0:19:30.360
-To achieve this, the game uses a very simple 
-system. Every object that is loaded is assigned
+遊戲使用一種非常簡單的系統來處理這個過程。
+每個物品在載入的時候
 
 0:19:30.360,0:19:36.360
-the first available slot of 240 object slots. 
-While in reality, object slots have addresses
+都會占用240個物品欄中第一個空位。
+雖然事實上物品欄的記憶體位置看起來像這樣，
 
 0:19:36.360,0:19:40.260
-that look a bit like this, for simplicity’s 
-sake, let’s instead give them a number which
+為了讓事情簡單一點，我們直接給每個物品
 
 0:19:40.260,0:19:45.900
-ranges from 1 to 240. When Mario grabs an 
-object, the object itself is put in limbo,
+1到240的編號。
+當馬力歐抓起一個物品，原物會被改成停滯狀態，
 
 0:19:45.900,0:19:50.940
-and Mario is given a reference number that links 
-him back to it. That reference is the held object,
+馬力歐則會拿到連結到原物的物品編號。
+那個物品編號存在馬力歐的手中物，
 
 0:19:50.940,0:19:55.920
-or that visual copy of the original object. The 
-only information the held object needs to have
+也就是原物的複製影像。
+手中物只要有原物的物品編號，遊戲就可以運作。
 
 0:19:55.920,0:20:01.020
-is the number of the slot the original object 
-belongs to. So long as the object is being held,
+而只要馬力歐拿著手中物，原物就會維持載入(雖然是停滯狀態)。
 
 0:20:01.020,0:20:06.300
-it will stay loaded in limbo. When Mario releases 
-the held object by throwing or dropping it, the
+當馬力歐放開物品，不管是丟出還是放下，
 
 0:20:06.300,0:20:10.680
-game looks at the reference number, and it brings 
-back the associated original object from limbo.
+遊戲會檢查物品編號，然後把停滯狀態的原物叫出來。
 
-0:20:10.680,0:20:15.540
-But remember, the original object’s position in 
-limbo doesn’t reflect the position of the held
+0:20:10.680,0:20:17.540
+但是要記得，遊戲不會更新原物在停滯狀態的位置，
+所以它跟被馬力歐拿著到處跑的手中物的位置基本上不一樣了。
 
-0:20:15.540,0:20:20.340
-object while Mario is carrying it around. When the 
-object is brought back, its position needs to be
-
-0:20:20.340,0:20:25.440
-updated to reflect the held object’s last position 
-and complete the illusion. That position is
+0:20:17.540,0:20:25.440
+當原物從停滯被叫回來，它的位置必須更新到手中物最後的位置。
 
 0:20:25.440,0:20:30.420
-tracked as a set of XYZ coordinates conveniently 
-called the held object’s last position, or the
+這個用三個參數XYZ儲存的位置剛好就叫做手中物最後的位置，或簡稱HOLP。
 
 0:20:30.420,0:20:35.160
-HOLP for short. While Mario is holding an object, 
-the HOLP is constantly updated to match the
+當馬力歐拿著一個物品，HOLP會隨時更新到馬力歐手的座標，
 
 0:20:35.160,0:20:39.420
-position of Mario’s hands, and as soon as Mario 
-releases it, the original object is instantly
+而當馬力歐放開物品，原物會馬上被傳送到HOLP，
 
 0:20:39.420,0:20:45.240
-warped to the HOLP as the held object disappears. 
-There’s one small but key detail: to help create
+並且複製影像消失。
+這邊有一個小但關鍵的細節:
 
 0:20:45.240,0:20:49.920
-a seamless transition, the original object isn’t 
-placed exactly at the HOLP depending on Mario’s
+為了讓整個過程看起來順暢，原物並不會剛好被傳送到HOLP。
 
 0:20:49.920,0:20:54.240
-animation. When Mario is dropping an object to 
-the ground, the game aligns it with the HOLP
+根據馬力歐的位置而定，像是如果馬力歐在地上放開物品，
+原物會被送到HOLP的水平位置，
 
 0:20:54.240,0:20:58.320
-horizontally, but places it at Mario’s vertical 
-position, which sets it down on the ground.
+但是垂直位置則是使用馬力歐的位置，
+看起來就像是馬力歐把東西放在地上。
 
 0:20:58.320,0:21:04.380
-Most of the time, this entire process is seamless 
-and goes exactly according to plan. But it’s not
+多數時候，這整個過程都很順暢且沒什麼問題。
 
 0:21:04.380,0:21:08.700
-airtight, and the tiny cracks in it are just 
-enough to let a clever and meticulous player
+但它並非滴水不漏，並且裡面的小漏洞剛好大到讓一些
+聰明細心的玩家把它整個玩壞。
 
 0:21:08.700,0:21:14.460
-cause a complete meltdown. Remember that when an 
-object is being grabbed, both Mario and the object
+還記得當馬力歐抓住一個物品，馬力歐跟物品會分別切換狀態，
 
 0:21:14.460,0:21:19.560
-change their state independently from each other, 
-and are linked together by the held object. In the
+並且由手中物的編號做連結。
 
 0:21:19.560,0:21:25.140
-case of a diving grab or a water grab, all of this 
-happens at the same time. But for a punching grab,
+在前撲抓跟手中抓物品的時候，所有事情都會同時發生。
 
 0:21:25.140,0:21:29.760
-the signal to change states is established 
-two frames before the actual state change.
+但如果是站抓物品，遊戲會在實際切換狀態前兩幀發出切換的訊號。
 
 0:21:29.760,0:21:34.500
-This gap can be abused if the original 
-object unloads during those two frames.
+假如原物這兩幀的空檔取消載入，我們就可以做一些有趣的事。
 
 0:21:34.500,0:21:39.000
-There are multiple ways to cause that to 
-happen. The most common are to let a cork
+有幾個方法可以讓這件事發生:
+最常見的方法是把一個箱子放置30秒
 
 0:21:39.000,0:21:43.500
-box sit still for 30 seconds and to grab it 
-in the final two frames before it disappears,
+並在它取消載入前的最後兩幀抓住它，
+或是在炸彈爆炸的同時抓住它。
 
 0:21:43.500,0:21:48.960
-or to grab a bob-omb as it’s exploding. Anything 
-that causes an object to unload within two frames
+任何能讓原物在馬力歐站抓的那兩幀取消載入的方法都可以達成這個效果，
 
-0:21:48.960,0:21:53.160
-of Mario grabbing it with a punch grab will 
-work, but it’s also achievable by touching a
-
-0:21:53.160,0:21:57.420
-loading zone, a trigger that unloads part of 
-a level and loads another part in its place.
+0:21:48.960,0:21:57.420
+像是通過載入點，
+一個遊戲負責取消載入部分地圖並載入新地圖的觸發點。
 
 0:21:57.960,0:22:02.400
-Unloaded objects can no longer be updated, 
-which means that the original object does
+遊戲不會更新取消載入的物品，代表原物不會進入停滯狀態。
+(不會被標記成被抓的狀態)
 
 0:22:02.400,0:22:07.620
-not go into limbo. However, Mario still receives 
-a reference for it in the form of the held object,
+但是馬力歐還是會由手中物拿到一個物品編號，
 
 0:22:07.620,0:22:11.580
-but that held object is now linked to 
-a vacant object slot, or a slot that is
+而這個手中物現在連結到一個空的物品欄位，
 
 0:22:11.580,0:22:16.560
-ready to load any new object in it. A vacant 
-slot is marked as empty and its contents can
+它可以載入任何新的物品。
+由於空的物品欄位裡面沒有東西，
 
 0:22:16.560,0:22:21.060
-no longer be modified. As a result, the 
-held object looks invisible or frozen,
+馬力歐的手中物看起來便是隱形或是凍結的，
 
 0:22:21.060,0:22:25.500
-since it represents the final state of 
-the original object before it unloaded.
+這反應了原物在被取消載入前的最後狀態。
 
 0:22:25.500,0:22:29.940
-When a new object is loaded in that slot, the 
-reference now points to a completely different
+當新的物品被載入到那個物品欄，
+手中物便連結到一個全新的物品，跟原本抓的東西完全沒關係。
 
 0:22:29.940,0:22:34.980
-object than what was originally intended. While 
-it appears like we’ve cloned the new object,
+這看起來像是我們成功「克隆」了那個新的物品，
 
 0:22:34.980,0:22:39.480
-this is not true yet. Mario is merely 
-holding a reference to the new object,
+但其實還沒成功。
+馬力歐只是拿著那個物品的編號(複製影像)
 
 0:22:39.480,0:22:41.640
-and because that object is not in limbo,
+而因為原物沒被設成停滯狀態(隱形的)，
 
 0:22:41.640,0:22:46.440
-it looks like there are two of them at once. 
-However, when Mario throws what he’s holding,
+看起來才會像是同時有這兩個物品。
+但如果馬力歐把拿著的物品丟出去，
 
 0:22:46.440,0:22:50.700
-you can see that the copy disappears and the 
-original object is warped near Mario’s position.
+我們可以看到複製影像就會消失，並且原物被傳送到馬力歐附近。
 
 0:22:51.360,0:22:56.940
-But what happens if the new object cannot be 
-thrown, like a goomba? Each grabbable object
+但如果那個新的物品是不能被丟出去的，像是蘑菇，會發生什麼事情?
 
 0:22:56.940,0:23:01.740
-has a script that takes care of its behaviour 
-when grabbed, dropped and thrown. If the new
+每一個可以抓的物品都有一段程式處理它被抓，放下跟丟出去的反應。
 
 0:23:01.740,0:23:06.420
-object is missing that script, it will simply 
-do nothing when thrown. Its behaviour script
+如果新的那個物品沒有這段程式，它被丟出去的時候什麼都不會做。
 
 0:23:06.420,0:23:11.340
-will essentially be erased and it won’t be able to 
-function normally anymore, so it’ll stay frozen in
+原物的行為程式會被刪除，使它的功能再也不能正常運作。
+基本上它會卡在同一個地方不動。
 
 0:23:11.340,0:23:17.040
-place. This has a very important side-effect 
-when the object being cloned has a spawner.
+當被克隆的物品有產生器的時候這會有很重要的作用。
 
 0:23:17.040,0:23:21.480
-Spawners are put in place to handle the 
-loading and unloading of a group of objects,
+產生器是用來管理一群物品載入跟取消載入的東西，
 
 0:23:21.480,0:23:26.280
-like a coin line, a coin ring, or a goomba 
-trio, for example. When Mario moves far
+這些物品包括一線硬幣，一圈硬幣，蘑菇三人組等等。
 
 0:23:26.280,0:23:30.960
-enough away from the broken goomba, it remains 
-loaded, yet its spawner doesn’t get the memo,
+當馬力歐離那個壞掉的蘑菇一段距離，它還是會被載入，
+但是產生器不會收到訊號，
 
 0:23:30.960,0:23:35.100
-and so it also keeps working just the 
-same. So, the goomba can be spawned
+所以雖然舊的蘑菇還在，
 
 0:23:35.100,0:23:39.600
-again even though a broken copy of it already 
-exists, and it has successfully been cloned.
+產生器還是會正常載入新的蘑菇，
+這樣就成功克隆這個蘑菇了。
 
 0:23:40.140,0:23:44.940
-Because the process of cloning involves erasing 
-the behaviour of the object being cloned,
+因為這個過程會把被克隆物品的行為程式刪除，
 
 0:23:44.940,0:23:50.280
-it suffers from inherent limitations. First, 
-the object being cloned needs to have a spawner,
+克隆有一些限制。
+首先，被克隆的物品必須要有產生器，不然它就只能被搬運。
 
 0:23:50.280,0:23:55.140
-otherwise it can only be transported. That can 
-still be useful though, and in fact, it is still
+這還是很有用，並且就算那個物品最後沒有被複製，
 
 0:23:55.140,0:24:00.360
-referred to as cloning even if the object in 
-question isn’t actually duplicated. But the most
+我們通常還是會把這個技巧叫做克隆。
 
 0:24:00.360,0:24:04.980
-important limitation is that a clone cannot move 
-or behave anything like the object it’s supposed
+但最大的限制便是克隆出來的物品沒辦法像原物一樣移動或是做它應該做的事。
 
 0:24:04.980,0:24:10.260
-to be. Luckily, the interactions that Mario can 
-have with an object aren’t handled directly by
+幸運的是，馬力歐跟物品的互動跟它的行為程式不直接相關，
 
 0:24:10.260,0:24:15.600
-the behaviour script, so clones can be interacted 
-with. Unfortunately, the missing behaviour script
+所以馬力歐還是可以跟克隆出來的物品互動。
 
 0:24:15.600,0:24:20.760
-is responsible for handling the interaction status 
-of the object, so after a single interaction,
+不幸的是，互動過後的物品會經由它的行為程式處理，
+所以馬力歐跟克隆出來的物品接觸一次後，
 
 0:24:20.760,0:24:27.420
-it also malfunctions. So while Mario can interact 
-with a clone, he can only do it once. For example,
+處理跟它互動的程式就會壞掉。
+所以雖然馬力歐可以接觸克隆出來的物品，但他只能接觸他一次。
 
 0:24:27.420,0:24:32.340
-throwing a coin clone causes Mario to collect it, 
-but leaves it frozen in place and impossible to
+舉個例子，丟出一個硬幣克隆會讓馬力歐收集它，但同時也會
+讓它卡在空中，無法再次收集。
 
 0:24:32.340,0:24:37.260
-collect again. Throwing a goomba clone causes 
-Mario to immediately be knocked back by it,
+丟出一個蘑菇克隆會讓馬力歐馬上被它擊退，
 
 0:24:37.260,0:24:42.120
-after which it becomes frozen and intangible, 
-essentially making the clone utterly useless.
+之後它就會凍結在空中且無法接觸，讓這個蘑菇克隆
+變得完全沒有用處。
 
 0:24:42.120,0:24:47.160
-Fortunately, there is a workaround. If 
-Mario throws a goomba clone while he’s
+還好還是有變通辦法。如果馬力歐在掉落地夠快時丟出
 
 0:24:47.160,0:24:51.180
-falling fast enough, Mario will move out 
-of the way as he releases the clone and
+蘑菇克隆，馬力歐會在他放開克隆時離開它的互動範圍，
+他們就不會撞在一起。
 
 0:24:51.180,0:24:56.220
-they will not collide. So, Mario can come 
-back and bounce on it once, and only once.
+之後馬力歐就可以回來在它上面彈跳一次，就一次。
 
 0:24:56.220,0:25:01.560
-So, all Pannenkoek had to do was to clone a 
-goomba and throw it while falling, then come
+所以Pannenkoek其實只要克隆一些蘑菇，掉落時把它們丟出，
 
 0:25:01.560,0:25:07.680
-back to bounce on it and reach the island, right? 
-Wrong. There’s one more major problem. To release
+之後再回來在它們身上彈跳到空島上就好了?
+沒那麼簡單。還有一個大問題，
 
 0:25:07.680,0:25:12.900
-an object clone, the object being cloned has 
-to be close enough to still be loaded. Unlike
+丟出物品克隆的時候，被克隆的物品必須要離馬力歐丟出時的距離
+足夠地近，讓那個物品保持載入。
 
 0:25:12.900,0:25:16.920
-objects in limbo, which are forced to stay 
-loaded for as long as Mario is holding them,
+不像停滯狀態的物品，只要馬力歐還抓著它就會被強制維持載入狀態，
 
 0:25:16.920,0:25:21.480
-cloned objects aren’t bound by this rule, so 
-they unload when Mario goes outside a certain
+克隆物不會被強制維持載入，所以馬力歐離開它的產生器一段距離後，
 
 0:25:21.480,0:25:26.580
-radius from their spawners. While over here, 
-the goomba trio under the island can be loaded,
+克隆物就會被取消載入。
+雖然在這裡蘑菇三人組可以維持載入，
 
 0:25:26.580,0:25:31.920
-over there, they no longer can. This called 
-for another trick from the bag: remote release.
+但在那裏就不能了。
+這邊就需要另外一個新的技術:遠端釋放。
 
 0:25:32.640,0:25:37.260
-What seems like two hours ago, I said that 
-the held object’s last position is constantly
+感覺像兩個小時前我有提到手中物的最後位置會
 
 0:25:37.260,0:25:41.400
-updated as Mario walks around holding 
-something. It turns out that there’s a
+根據馬力歐的位置更新，但其實有方法可以防止它更新。
 
 0:25:41.400,0:25:45.660
-way to prevent it from being updated. There 
-are a few ways to do this, but for now,
+有一些方法可以做到這件事，但是這邊
 
 0:25:45.660,0:25:50.760
-we’re going to look at the Hat in Hand glitch. 
-The animation for putting on a hat has two stages:
+我們要提的是手中帽子bug。
+馬力歐戴上帽子的動畫有兩個階段:
 
 0:25:50.760,0:25:55.140
-during the first stage, Mario is holding the 
-hat in his hand, and in the second stage,
+在第一階段，馬力歐把帽子拿在它的手上，
+第二階段帽子就會到他的頭上。
 
 0:25:55.140,0:26:00.360
-the hat is on his head. When Mario picks up a 
-hat, the first stage is triggered: Mario starts
+馬力歐撿到帽子的時候就會觸發第一階段:
 
 0:26:00.360,0:26:05.280
-holding the hat, and the animation plays. Now, 
-if Mario comes across a second hat to put on,
+馬力歐拿著帽子，同時播放動畫。
+這個時候如果馬力歐檢到第二個帽子，
 
 0:26:05.280,0:26:09.480
-as soon as the first animation is over, a 
-second animation plays, but the animation
+動畫第一階段播完的時候就會開始播第二階段，但是動畫的時間不會被重設。
 
 0:26:09.480,0:26:14.220
-timer doesn’t reset. As a result, the second 
-animation is instantly interrupted and Mario
+結果就是第二階段會被打斷，馬力歐最後則會拿著帽子在手上。
 
 0:26:14.220,0:26:18.900
-ends up with his hat in his hand. Putting on 
-two hats in quick succession can happen either
+要短時間內戴上兩次帽子可以用傳送點複製帽子，
 
 0:26:18.900,0:26:24.480
-by duplicating hats using a warp or by reusing 
-a special cap box before the first one expires.
+或是在舊的帽子消失之前再使用一次帽子箱。
 
 0:26:24.480,0:26:30.600
-This glitch has important ramifications regarding 
-the HOLP. If Mario grabs an object while holding
+這個bug對HOLP有重要的影響，如果馬力歐在手中帽的狀態下
 
 0:26:30.600,0:26:34.620
-a hat, the object will still be held like 
-normal, but Mario will look like he’s holding
+抓住一個物品，那個物品還是會被正常的抓住，
+但馬力歐看起來只會抓著他的帽子。
 
 0:26:34.620,0:26:39.900
-his hat instead. Because the held object isn’t 
-being rendered, the HOLP is not updated like it
+因為馬力歐手中物的動畫沒有顯示，HOLP的位置就不會正常更新。
 
 0:26:39.900,0:26:44.880
-should. This causes the HOLP to become disjointed 
-from Mario, because the position remains frozen
+這就造成HOLP的位置跟馬力歐的位置分開來了，而HOLP的位置
+就停在最後它被更新的位置。
 
 0:26:44.880,0:26:51.240
-to wherever it was last updated. For example, if 
-Mario releases a cork box here, then performs the
+舉例，馬力歐在這邊放開一個箱子，然後使用手中帽bug丟出一個炸彈，
 
 0:26:51.240,0:26:55.080
-hat in hand glitch and throws a bob-omb, the 
-bob-omb will be released where Mario released
+那個炸彈會被送到馬力歐放開箱子的那個位置，
 
 0:26:55.080,0:27:00.060
-the cork box earlier, because that’s where the 
-HOLP still is. This is known as remote release.
+因為遊戲認為HOLP在那個地方。
+這就是遠端釋放。
 
 0:27:01.380,0:27:06.420
-Despite the complex setup and many drawbacks, 
-this is how Pannenkoek managed to get onto the
+雖然有很多複雜的操作跟問題，但這就是Pannenkoek不使用A鍵
 
 0:27:06.420,0:27:11.160
-island in Bob-omb Battlefield without using 
-A. First, he grabbed an exploding bob-omb,
+就到《炸彈戰場》的空島上去的方法。
+首先，他抓住一個爆炸中的炸彈，
 
 0:27:11.160,0:27:16.200
-which gave him a reference to a vacant object 
-slot. Then, he carried it to this gap where he
+拿到一個空的物品欄位。
+然後他拿著這個欄位一直到這個位置
 
 0:27:16.200,0:27:21.000
-released it to place the HOLP in mid-air. Next, 
-he did the Hat in Hand glitch and used another
+放開它把HOLP設定在半空中。
+然後他用手中帽bug跟另一個炸彈
 
 0:27:21.000,0:27:26.760
-bob-omb to clone a goomba from this trio. Using 
-remote release, he transported that goomba over
+從蘑菇三人組複製一個蘑菇。
+用遠端釋放，他把蘑菇傳送到HOLP，
 
 0:27:26.760,0:27:31.920
-to the HOLP, where he could go and bounce on 
-it. Just one goomba wasn’t enough - he needed
+然後他就可以過去在它身上彈跳。
+但是一個蘑菇彈跳不夠，
 
 0:27:31.920,0:27:36.720
-more to make a bridge to the island. But here’s 
-the catch - to place a goomba further along,
+他需要更多蘑菇來蓋一座到空島的橋。
+問題就在這裡，為了把蘑菇放到更遠的地方，
 
 0:27:36.720,0:27:41.280
-the HOLP needs to be further along, which 
-means Mario himself needs to be further along,
+HOLP必須要在更遠的地方，代表馬力歐先要能到那個地方，
 
 0:27:41.280,0:27:46.500
-so he needs to bounce on this goomba to place 
-that goomba. But remember, clones can only be
+所以他要先在這個蘑菇上彈跳過去才能放新的蘑菇。
 
 0:27:46.500,0:27:51.060
-interacted with once, so once Mario bounces on 
-the first goomba to place the second goomba,
+但要記得，蘑菇克隆只能互動一次，所以馬力歐在上面彈跳放第二個蘑菇的時候，
 
 0:27:51.060,0:27:55.200
-the first goomba becomes intangible. 
-So, after placing the second goomba,
+第一個蘑菇就沒辦法用了。
+所以放完第二個蘑菇後，
 
 0:27:55.200,0:27:59.700
-Mario needs to come back and place a third goomba 
-next to the first one so he can bounce on these
+馬力歐要回來在第一個蘑菇旁邊放第三個蘑菇才能彈到第二個蘑菇上。
 
 0:27:59.700,0:28:04.320
-two. This process becomes more tedious the 
-longer the gap is, and exponentially so.
+這個過程在橋越來越長的時候會指數成長。
 
 0:28:04.320,0:28:09.120
-You see, it’s sort of like counting in binary, 
-except the 1s are goombas that you place,
+這有點像是用二進位數數，1是你放的蘑菇，0是準備要放蘑菇的位置。
 
 0:28:09.120,0:28:13.740
-and the 0s are gaps that need to be filled. 
-The length of the bridge is the amount of 1s
+橋的長度是所需的1的長度。
 
 0:28:13.740,0:28:19.260
-that you need in a row. Therefore, for a bridge of 
-length 1, you need a single goomba. For length 2,
+所以一個蘑菇長的橋需要一個蘑菇。
 
 0:28:19.260,0:28:25.560
-you need 3 goombas, length 3, 7 goombas, length 
-4, 15 goombas, and for a bridge of length n,
+兩個蘑菇長的需要3個，三個蘑菇長的需要7個,四個蘑菇長的需要15個。
 
 0:28:25.560,0:28:30.120
-you need 2 to the power of n minus 
-1. This can rapidly become a problem,
+n個蘑菇長橋的就需要二的n次方-1個蘑菇。
+這會造成一些問題，
 
 0:28:30.120,0:28:34.140
-because the game crashes from having to draw 
-too many triangles if there are somewhere
+因為畫面上如果有超過大概40個蘑菇遊戲就會閃退。
 
 0:28:34.140,0:28:39.420
-around 40 goombas on screen. That puts the upper 
-bound of a goomba bridge’s length at only 5.
+所以最長能蓋出的蘑菇橋大約只有5個蘑菇長。
 
 0:28:39.420,0:28:43.740
-In this case, Pannen was able to get 
-across using three goomba bounces,
+在空島的例子，Pannen用3個蘑菇長的橋，也就是7個蘑菇，
 
 0:28:43.740,0:28:48.360
-which means he had to place 7 goomba 
-clones to cross the gap. For the red coins,
+來彈跳過去空島。要拿到紅幣到空島上就好了，
 
 0:28:48.360,0:28:52.560
-this was sufficient, but for this star, he 
-needed something extra to reach the star.
+但這個星星還要做一些事情才能拿到。
 
 0:28:52.560,0:28:57.960
-A goomba to bounce on would be nice. There 
-are two options to get that to happen. The
+如果能用蘑菇彈上去就能拿到星星。
+有兩個方法可以做到這件事:
 
 0:28:57.960,0:29:02.160
-first is to keep the same strategy: set up 
-the HOLP under the star, then remote release
+第一個是用同樣的策略:
+把HOLP放到星星下面，在其他地方遠端釋放蘑菇再用它彈跳。
 
 0:29:02.160,0:29:06.540
-a goomba clone from elsewhere and reap the 
-benefits. There’s one major issue, though:
+但這有一個問題。
 
 0:29:06.540,0:29:10.860
-because the wing cap box on the island doesn’t 
-allow for the Hat in Hand glitch to be possible,
+因為空島上的飛行帽箱沒辦法用來做手中帽bug，
 
 0:29:10.860,0:29:16.320
-the cloning has to be done off the island after 
-the HOLP was put on there first. A goomba bridge
+克隆要空島以外的地方完成，同時HOLP要已經在星星底下。
 
 0:29:16.320,0:29:21.300
-is a single use infrastructure, so two trips to 
-the island require two separate goomba bridges.
+蘑菇橋只能用一次，所以去空島兩次需要兩座蘑菇橋。
 
 0:29:21.300,0:29:26.220
-The second option is to release the clone 
-directly at the location. Fortunately,
+第二個策略是直接在星星下面丟出蘑菇克隆。
 
 0:29:26.220,0:29:29.880
-the top of the island is close enough to 
-these goombas that they can be loaded,
+幸運的是，空島的這個位置離這群蘑菇夠近，讓它們可以在島上被克隆。
 
 0:29:29.880,0:29:33.060
-and therefore, cloned, while 
-on the island. Unfortunately,
+但是不幸的是，馬力歐沒辦法在不被蘑菇撞到的
 
 0:29:33.060,0:29:37.500
-Mario can’t release the clone without instantly 
-bumping into it and ruining its purpose,
+同時把蘑菇克隆放到星星底下，讓他之後就沒辦法在上面彈跳。
 
 0:29:37.500,0:29:43.140
-because there’s no way to release it by falling 
-from above. But falling isn’t the only method to
+在空島上沒辦法用掉落的方式避免撞到蘑菇，但是其實還有另一個方法
 
 0:29:43.140,0:29:47.760
-prevent interacting with a clone that’s being 
-released. What if instead, Mario couldn’t
+可以避免馬力歐撞到克隆物品。
 
 0:29:47.760,0:29:52.080
-be knocked back by the goomba because he was 
-already being knocked back by something else?
+如果馬力歐不能被蘑菇擊退，那能不能讓他先被其他東西擊退?
 
 0:29:52.080,0:29:56.880
-A damage knockback forces Mario to drop 
-whatever he’s holding, and it also prevents
+馬力歐被擊退的時候會強制讓他放開任何他拿著的東西，
 
 0:29:56.880,0:30:01.140
-him from interacting with a goomba clone being 
-released this way, so it is the perfect idea on
+同時避免馬力歐撞到這樣放開的蘑菇克隆，所以這個方法聽起來很棒。
 
 0:30:01.140,0:30:05.880
-paper. But one hurdle remains: Mario still 
-needed something to take damage from.
+但這還是有一個問題:馬力歐需要有東西穰他受傷擊退。
 
 0:30:06.420,0:30:10.860
-Now, if you remember two million years ago, 
-I mentioned that dropping an object has a
+這邊如果你還記得我兩億年前有提到放下物品跟丟出去有一點點不同，
 
 0:30:10.860,0:30:15.000
-slightly different effect than throwing it. 
-It places the object at the HOLP laterally,
+放下物品會把它傳送到HOLP的水平位置跟馬力歐的垂直位置。
 
 0:30:15.000,0:30:19.200
-but at Mario’s height, which, because the 
-HOLP is usually somewhere near Mario’s hands,
+通常HOLP會在馬力歐的手附近，這看起來就像是馬力歐把東西
 
-0:30:19.200,0:30:24.180
-effectively sets the object down on the ground 
-in front of Mario. If the HOLP is disjointed,
-
-0:30:24.180,0:30:29.340
-however, the effect can be wildly different. 
-Remote dropping an object will place it at the
+0:30:19.200,0:30:29.340
+放到它前面的地板上。
+但如果HOLP不在馬力歐手的位置，就會有神奇的效果。
 
 0:30:29.340,0:30:32.820
-point corresponding to the HOLP’s lateral 
-position and Mario’s vertical position,
+遠端放下一個物品會把它放到HOLP的水平位置跟馬力歐的垂直位置，
 
 0:30:32.820,0:30:35.940
-which can be a completely new 
-point otherwise inaccessible.
+這個位置可能是一個新的，馬力歐根本到不了的地方。
 
 0:30:36.480,0:30:41.160
-If we go back to the bob-omb example, dropping 
-the bob-omb causes it to be placed up there.
+回到那個炸彈的例子，把炸彈放下會讓它被放到那邊去。
 
 0:30:42.000,0:30:46.980
-Going back to Shoot to the Island in the Sky. 
-The star is at a location whose coordinates can
+回到【射向空島】，那個星星的位置在一個水平位置跟垂直位置很好分別到達的地方，
 
 0:30:46.980,0:30:52.920
-easily be reached both laterally and vertically, 
-but not at the same time. By releasing a cork box
+但要同時到達就很難了。
+Pannenkoek在星星的垂直位置下方放下箱子，
 
 0:30:52.920,0:30:57.540
-underneath the star’s location, performing the hat 
-in hand glitch, and then cloning a cannonball by
+使用手中帽bug，藉由在這裡把炮彈克隆放下，可以把炮彈
 
 0:30:57.540,0:31:01.860
-dropping it here, Pannenkoek was able to release 
-the cannonball at the HOLP laterally, but at
+傳送到HOLP的水平位置，但在馬力歐的高度。
 
 0:31:01.860,0:31:07.440
-Mario’s height. This left the clone on the island, 
-despite Mario never needing to go there himself.
+雖然馬力歐沒有去過空島，但這樣就讓砲彈克隆被傳送到空島上了。
 
 0:31:08.220,0:31:13.020
-Finally, after cloning one last goomba, he was 
-able to release the clone by getting knocked back
+最後馬力歐再克隆一個蘑菇，他可以藉由被砲彈擊退把這個克隆丟出，
 
 0:31:13.020,0:31:17.460
-by the cannonball. This allowed him to place 
-a goomba clone without interacting with it,
+同時不會跟這個蘑菇接觸。
 
 0:31:17.460,0:31:21.060
-and he could use the bounce to reach the 
-star without pressing A a single time.
+然後他就可以在蘑菇上彈跳來收集這個星星，
+這整個過程沒有用到任何一次A鍵。
 
 0:31:22.140,0:31:25.920
-You may wonder why Pannen didn’t simply 
-remote drop a goomba onto the island,
+你可能會覺得為什麼Pannen不直接遠端釋放一個蘑菇到島上，
 
 0:31:25.920,0:31:30.600
-instead of using a cannonball. That’s because 
-there’s no way to be at the correct height while
+而是用了一個砲彈。
+因為他沒有辦法可以離克隆蘑菇的位置夠近，同時處在正確的高度位置。
 
 0:31:30.600,0:31:35.460
-still being close enough to a goomba for it to be 
-loaded. The only goombas close enough are clones,
+唯一離這個位置夠近的蘑菇是這些蘑菇克隆，
 
 0:31:35.460,0:31:40.920
-and because a clone never unloads, it also never 
-reloads, so it’s impossible to clone a clone.
+但因為克隆不會取消載入，它們也不會載入，
+所以克隆一個克隆是不可能的。
 
 0:31:40.920,0:31:45.300
-Also, I glossed over how the goombas and 
-the cannonball conveniently loaded into the
+另外，我略過了要怎麼把蘑菇跟砲彈剛好載入到馬力歐
 
 0:31:45.300,0:31:50.100
-specific object slot that Mario was holding. The 
-reason behind this could be an entire video on
+手中的空物品欄位編號。這個問題可以另外拍一部影片來解答。
 
 0:31:50.100,0:31:54.480
-its own - and in fact, Pannenkoek made that 
-video already - but in short, when multiple
+其實Pannenkoek已經有一部影片講解這件事了。
 
 0:31:54.480,0:31:59.220
-objects unload on the same frame, such as a coin 
-ring, a goomba trio or other groups of objects,
+簡單來說，如果有好幾個物品在同一幀取消載入，
+如硬幣圈，蘑菇三人組或是其他物體群，
 
 0:31:59.220,0:32:03.900
-they unload in the reverse order that they were 
-loaded in. Through meticulous planning and deep
+它們取消載入的順序會是它們載入順序的相反。
+只要深入了解物品載入的行為模式跟仔細規劃動作，
 
 0:32:03.900,0:32:07.980
-knowledge of object loading behaviour, it’s 
-possible to manipulate which object will be
+就能夠控制是什麼東西載入到馬力歐的手中。
 
 0:32:07.980,0:32:13.140
-loaded into Mario’s hands. Here, Pannen was 
-actually just winging it, retrying over and
+這裡Pannen其實用的方法是反覆嘗試直到他得到想要的結果。
 
 0:32:13.140,0:32:17.820
-over until he would get the result he wanted, just 
-like he had been doing for years. But eventually,
+多年以來他一直都是這麼做的，但最後經過長時間的研究，
 
 0:32:17.820,0:32:21.600
-with enough time and research, he 
-came to master the process of cloning.
+他終於精通了克隆的技巧。
 
 0:32:25.320,0:32:30.240
 This groundbreaking strategy was one of the 

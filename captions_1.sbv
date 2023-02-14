@@ -340,7 +340,7 @@ Bright覺得他應該要做兩個世界紀錄列表，把RTA(人類玩家)
 
 0:08:54.900,0:08:58.740
 現在只剩少數幾個星星還沒被研究過，
-主要在《時鐘塔》《彩虹旅程》
+主要在《時鐘塔》《彩虹毯》
 
 0:08:58.740,0:09:01.920
 《天上的庫巴(第三隻王)》以及【可怕的港口100硬幣】
@@ -943,13 +943,13 @@ Pannenkoek2012原本只是這個遊戲影片的觀眾，
 他們就不會撞在一起。
 
 0:24:51.180,0:24:56.220
-之後馬力歐就可以回來在它上面彈跳一次，就一次。
+之後馬力歐就可以回來在踩他一次，就一次。
 
 0:24:56.220,0:25:01.560
 所以Pannenkoek其實只要克隆一些蘑菇，掉落時把它們丟出，
 
 0:25:01.560,0:25:07.680
-之後再回來在它們身上彈跳到空島上就好了?
+之後再回來踩在它們身上彈跳到空島上就好了?
 沒那麼簡單。還有一個大問題，
 
 0:25:07.680,0:25:12.900
@@ -1050,7 +1050,7 @@ Pannenkoek2012原本只是這個遊戲影片的觀眾，
 用遠端釋放，他把蘑菇傳送到HOLP，
 
 0:27:26.760,0:27:31.920
-然後他就可以過去在它身上彈跳。
+然後他就可以過去在踩它。
 但是一個蘑菇彈跳不夠，
 
 0:27:31.920,0:27:36.720
@@ -1061,7 +1061,7 @@ Pannenkoek2012原本只是這個遊戲影片的觀眾，
 HOLP必須要在更遠的地方，代表馬力歐先要能到那個地方，
 
 0:27:41.280,0:27:46.500
-所以他要先在這個蘑菇上彈跳過去才能放新的蘑菇。
+所以他要先踩這個蘑菇彈跳過去才能放新的蘑菇。
 
 0:27:46.500,0:27:51.060
 但要記得，蘑菇克隆只能互動一次，所以馬力歐在上面彈跳放第二個蘑菇的時候，
@@ -1113,7 +1113,7 @@ n個蘑菇長橋的就需要二的n次方-1個蘑菇。
 
 0:28:57.960,0:29:02.160
 第一個是用同樣的策略:
-把HOLP放到星星下面，在其他地方遠端釋放蘑菇再用它彈跳。
+把HOLP放到星星下面，在其他地方遠端釋放蘑菇再用踩它。
 
 0:29:02.160,0:29:06.540
 但這有一個問題。
@@ -1137,7 +1137,7 @@ n個蘑菇長橋的就需要二的n次方-1個蘑菇。
 但是不幸的是，馬力歐沒辦法在不被蘑菇撞到的
 
 0:29:33.060,0:29:37.500
-同時把蘑菇克隆放到星星底下，讓他之後就沒辦法在上面彈跳。
+同時把蘑菇克隆放到星星底下，讓他之後就沒辦法踩它。
 
 0:29:37.500,0:29:43.140
 在空島上沒辦法用掉落的方式避免撞到蘑菇，但是其實還有另一個方法
@@ -1202,7 +1202,7 @@ Pannenkoek在星星的垂直位置下方放下箱子，
 同時不會跟這個蘑菇接觸。
 
 0:31:17.460,0:31:21.060
-然後他就可以在蘑菇上彈跳來收集這個星星，
+然後他就可以踩在蘑菇上彈跳來收集這個星星，
 這整個過程沒有用到任何一次A鍵。
 
 0:31:22.140,0:31:25.920
@@ -1250,624 +1250,517 @@ Pannenkoek在星星的垂直位置下方放下箱子，
 (後面待翻譯...)
 
 0:32:25.320,0:32:30.240
-This groundbreaking strategy was one of the 
-first ever contributions that Pannenkoek made
+這破天荒的策略是Pannenkoek在A鍵挑戰的前幾個貢獻之一。
 
 0:32:30.240,0:32:35.700
-to the A Button challenge. Unfortunately, as 
-ridiculous as it was, it actually wasn’t an
+不幸的是，雖然這個策略聽起來很扯，但是其實它沒有省下任何A鍵。
 
 0:32:35.700,0:32:41.220
-improvement. Unbeknownst to him, two years prior, 
-the Japanese TASers already knew you could simply
+Pannenkoek不知道的是，在兩年前，一些日本TAS玩家就已經知道
 
 0:32:41.220,0:32:45.900
-use a shell and a steep slope to gain super speed 
-backwards and fly across the gap to the island
+可以使用龜殼跟很斜的斜坡來獲得很大的向後移動速度，然後直接飛到島上。
 
 0:32:45.900,0:32:51.300
-that way. In fact, most of Pannenkoek’s first 
-videos simply came to the same result as his
+實際上Pannenkoek一開始的影片大多數最後的A鍵使用量都跟其他先驅的一樣。
 
 0:32:51.300,0:32:56.700
-predecessors. Nonetheless, he did start finding 
-new improvements as well. The very first one
+但他還是有推動一些進展。
+其中第一個是
 
 0:32:56.700,0:33:01.860
-was Wiggler’s Red Coins in Tiny Huge Island, 
-using an idea from fellow TASer Plush to use
+《大小島》【Wiggler的紅幣】，受到另一位TAS玩家Plush的啟發，
 
 0:33:01.860,0:33:07.860
-a slidekick bounce to reach this platform. 
-This brought the total count down to 207.
+用一個滑鏟彈跳到這個平台上。
+這使得總A鍵使用量降到了207。
 
 0:33:07.860,0:33:15.900
-By the way, quick sidenote: the count was said to 
-be 228 in 2011, and down to 208 in 2013. Like I
+另外提一下，之前說2011年的A鍵用量是228，而在2013年是208。
 
 0:33:15.900,0:33:20.520
-mentioned before, early A press counts were fuzzy 
-to figure out precisely for all sorts of reasons,
+就像我先前提到的，我們很難精準定量早期的A鍵用量，
 
 0:33:20.520,0:33:25.500
-and I purposely gave the most conservative 
-estimate. This 208, however, is a pretty
+所以我給了一個最保守的估計。
+但是208這個數字是一個可靠的統計數字。
 
 0:33:25.500,0:33:29.940
-solid measure based on the full-game oriented 
-thinking that was implemented during this period,
+因為那時候已經針對全遊戲的星星做統計，
 
 0:33:29.940,0:33:35.160
-and retroactively applied to the known scores 
-at the time. The main discrepancy comes from
+並且可以溯源到當時已知的所有策略。
+228到208的主要進步來源是
 
 0:33:35.160,0:33:40.260
-combining the Tick Tock Clock 100 coin star 
-with Stomp on the Thwomp to save 14 A presses,
+《時鐘塔》的【100硬幣星星】跟【時鐘塔頂樓】合起來省了14xA,
 
 0:33:40.260,0:33:42.660
-but there are multiple other 
-small differences as well.
+以及其他星星的一些小進步。
 
 0:33:42.660,0:33:47.520
-After Wiggler’s Red Coins, Pannenkoek 
-revisited an old strategy for the red
+在【Wiggler的紅幣】之後，Pannenkoek去看了
 
 0:33:47.520,0:33:52.020
-coin star of Rainbow Ride. The old 
-5 A press strategy was to take the
+【彩虹毯紅幣】的舊策略。這個5xA的路線包含
 
 0:33:52.020,0:33:56.160
-carpet ride to rise up high enough to access 
-this platform in the maze using one A press,
+用1xA搭乘這個飛毯到這個平台，
 
 0:33:56.160,0:34:01.020
-then to navigate the maze with the remaining four. 
-But Pannen figured out that you could simply keep
+然後用剩下4xA來跑迷宮。
+但是Pannen發現可以
 
 0:34:01.020,0:34:05.880
-reusing the carpet to fall into the maze using 
-only this jump every round trip. With clever
+重複利用飛毯，只需要這個A就能進迷宮。
 
 0:34:05.880,0:34:10.260
-routing and platforming, this new strategy 
-brought the A press count down to only 2.
+經過精巧的路線規劃，這個新的策略只需要2xA就能拿到星星。
 
 0:34:10.800,0:34:14.460
-After another dozen stars with no 
-new improvement, he struck again,
+又過了幾個沒有進展的星星，這次pannenkoek在
 
 0:34:14.460,0:34:18.900
-this time in Whomp’s Fortress. Chip Off 
-Whomp’s Block was a relatively simple
+《Whomp的堡壘》有了新進步。
+【石板王】是一個相對簡單的星星，
 
 0:34:18.900,0:34:23.520
-star - you can get to the top floor of the 
-fortress with no A presses fairly easily,
+要不用A到堡壘的最上面的最上面蠻簡單的，
 
-0:34:23.520,0:34:27.600
-but the fight itself required three ground 
-pounds on Whomp’s back, which automatically
+0:34:23.520,0:34:27.900
+但是打王的過程需要在石板王的背上用砸地三次，也就是需要3xA
+(砸地要有一定高度，動作本身不用按A)
 
-0:34:27.600,0:34:32.400
-meant three A presses. That is until Pannen 
-had the idea of luring Whomp to the elevator,
+0:34:27.900,0:34:32.400
+直到pannen想到把石板王引到升降台那邊，
 
 0:34:32.400,0:34:37.260
-and using the rotating platform to gain air time 
-and ground pound the miniboss with no A presses.
+用升降台來上升到他背上，這樣就可以不使用A來砸地。
 
 0:34:37.260,0:34:41.700
-Unfortunately, while in the previous strategy, 
-the star could be collected instantly after
+不幸的是，以前只要在砸地的第三次同時就可以馬上拿到星星，
 
 0:34:41.700,0:34:46.260
-the final hit, this luring strategy meant that 
-Pannen would need to find a new way to collect
+用這個策略代表需要找另一個方法不用A拿星星。
 
 0:34:46.260,0:34:51.300
-the star without using A. He couldn’t find any 
-and left it at one A press, improving it by two.
+Pannen找不到，所以這個星星就先以1xA收場，省了2個A鍵。
 
 0:34:52.020,0:34:58.260
-His next stop was Tall Tall Mountain. Well, not 
-exactly. First, he did a quick trip to Tiny-Huge
+再來他來到了《高高山》，但他很快地去《大小島》一趟來
 
 0:34:58.260,0:35:02.880
-Island to throw this Chuckya, then made his way 
-to Tall Tall Mountain and saved two A presses
+丟這個Chuckya，然後才去《高高山》的【登山】省了兩個A鍵。
 
 0:35:02.880,0:35:07.440
-on Scale the Mountain. He performed the Hat in 
-Hand glitch using the warp to duplicate his hat,
+首先他用傳點複製帽子，觸發手中帽bug
 
 0:35:07.440,0:35:13.380
-cloned a goomba, and then threw it. You can see 
-the goomba disappear, but where did it go? Well,
+複製一隻蘑菇，然後把他丟出去。
+我們可以看到，蘑菇消失了，但它去了哪裡?
 
 0:35:13.380,0:35:19.440
-it appeared right under the star! And this is 
-why he went to Tiny Huge Island first. The HOLP
+這個嘛，它直接出現在星星下面了!
+這就是Pannen先去《大小島》一趟的原因。
 
 0:35:19.440,0:35:24.840
-only ever gets initialized once, when the game is 
-booted up. After that, it only ever gets updated
+HOLP只會在遊戲開始的時後被初始化一次。
+在那之後，HOLP只會在
 
 0:35:24.840,0:35:30.240
-when Mario is holding an object, and stays frozen 
-otherwise, including between levels. When Mario
+馬力歐拿著物品的時候更新，其他時候都不會變動，
+包含切換關卡的時候。
 
-0:35:30.240,0:35:35.820
-threw the Chuckya in Tiny-Huge Island, the HOLP 
-was set at this position. Those same coordinates
+0:35:30.240,0:35:35.620
+馬力歐在丟《大小島》丟Chuckya的時候就把HOLP設在這個位置了。
 
-0:35:35.820,0:35:40.620
-in Tall Tall Mountain correspond to the top 
-of the mountain, right below the star. So,
+0:35:35.620,0:35:40.620
+同樣的座標在《高高山》對應到山頂，星星正下方。
 
 0:35:40.620,0:35:45.120
-with a remote release, Pannen was able to place 
-the goomba up there from all the way down here.
+所以用遠端釋放，Pannen可以在下面把蘑菇放到上面那個地方。
 
 0:35:45.120,0:35:50.700
-There’s one detail that I glossed over. How did 
-Mario reach this point up the mountain without
+有一個細節我剛才略過去了。
+馬力歐是怎麼不用A上去山上這個地方的?
 
-0:35:50.700,0:35:56.340
-jumping? He did it thanks to a new technique 
-called framewalking. Mario can run up steep
+0:35:50.700,0:35:56.040
+用一種叫做「單幀行走」的新技巧。
 
-0:35:56.340,0:36:00.960
-slopes to a point, but he keeps losing speed until 
-it dips into the negatives, at which point he
+0:35:56.040,0:36:00.660
+馬力歐可以跑上一些斜坡，但有些斜坡會讓他不斷減速直到速度變成負的，
 
-0:36:00.960,0:36:06.060
-slides down on his belly. However, when Mario’s 
-speed is low enough, if the stick is neutral
+0:36:00.660,0:36:06.060
+這時候他就會趴著滑下來。
+但是如果馬力歐的速度夠慢，只要把搖桿從
 
 0:36:06.060,0:36:11.520
-and then forwards again, Mario will gain speed 
-on the first frame, even on a steep slope. By
+中立位置向前推，即使在很斜的斜坡上，馬力歐也會在第一幀加速。
 
 0:36:11.520,0:36:16.380
-quickly alternating between neutral and forwards, 
-it’s possible to walk up steep slopes that way.
+所以只要快速的前後移動搖桿就可以走上斜坡。
 
 0:36:17.160,0:36:21.660
-This climb saved one A press, and the 
-goomba clone at the top saved another.
+這個方法省了一個A鍵，而山頂的蘑菇克隆省了另一個A。
 
 0:36:21.660,0:36:26.100
-Now, there are three other stars in Tall Tall 
-Mountain that also required an A press to get
+另外《高高山》還有其他三個星星需要經過這裡，
 
 0:36:26.100,0:36:30.060
-past this point: Mystery of the Monkey 
-Cage, Breathtaking View from Bridge,
+【猴子籠的秘密】【橋邊美景】跟
 
-0:36:30.060,0:36:36.120
-and the 100 coin star. Framewalking could get rid 
-of that A press in all of them. This discovery
+0:36:30.060,0:36:36.020
+【高高山100硬幣】。
+單幀行走可以三個星星各省下一個A。
 
-0:36:36.120,0:36:40.860
-marked Tall Tall Mountain as the second stage 
-that could be fully completed in 0 A presses.
+0:36:36.020,0:36:40.860
+這個發現使得《高高山》成為第二個0xA拿到全部星星的關卡。
 
 0:36:42.360,0:36:47.400
-Soon after, Pannen looked into various stars, 
-mostly from the basement levels, and he found some
+不久後，Pannen研究了各種星星，主要集中在地下室的關卡,
 
 0:36:47.400,0:36:52.200
-minor improvements to existing strategies along 
-the way. He first went to the metal cap course,
+並對一些既有策略做了小改進。
+首先他在鋼鐵帽關
 
 0:36:52.200,0:36:56.220
-where a dive recover from a crystal allowed 
-him to get onto the switch in 0 A presses,
+從一個水晶前撲受身讓馬力歐可以0xA上到按鈕上，
 
-0:36:56.220,0:37:01.560
-then found a few clever strategies in Shifting 
-Sand Land. He used tornadoes and fly guys to
+0:36:56.220,0:37:01.860
+然後他在《沙漠》裡找到了一些聰明的策略。
+他用龍捲風跟fly guy來拿到紅幣,
 
-0:37:01.560,0:37:05.940
-reach the red coins without needing to fly or 
-jump, and he bounced on the hand on the final
+0:37:01.860,0:37:06.740
+然後他在岩手上彈跳來拿到星星。
 
-0:37:05.940,0:37:10.620
-hit in Stand Tall on 4 pillars to reach 
-the star. He still had to jump once here,
+0:37:06.740,0:37:10.620
+他還是得在這裡跳一次
 
 0:37:10.620,0:37:15.540
-to get out of the elevator platform and into the 
-fight. He then found a minor improvement in Jolly
+才能離開升降台進入戰鬥。
+再來他改進了《海盜灣》
 
 0:37:15.540,0:37:20.820
-Roger Bay by combining the 100 coins with the red 
-coin star, and by only using B to swim until he
+把【海盜灣紅幣】跟【海盜灣100硬幣】一起收集，
+以及只用B鍵游到
 
 0:37:20.820,0:37:26.460
-had to jump inside the cave for blue coins. Then, 
-back in Shifting Sand Land, he cloned a cork box
+地下洞窟藍幣的位置。
+然後回到《沙漠》，他複製一個箱子。
 
 0:37:26.460,0:37:31.440
-by using remote release to place it partly through 
-the edge of another box, and having it explode as
+使用遠端釋放把他放在另一個箱子的邊邊，讓它在
 
 0:37:31.440,0:37:37.260
-it despawned, causing it to give infinite coins. 
-This let him get the 100 coin star in 0 A presses.
+取消載入的同時爆炸，這樣箱子就會無限噴金幣。
 
-0:37:37.260,0:37:42.180
-Next, he went over to Big Boo’s Haunt, where one 
-clever strategy allowed him to save A presses
+0:37:37.260,0:37:42.480
+接著是《鬼屋》，他用一個策略在四個星星各省下1xA。
 
-0:37:42.780,0:37:47.460
-on four different stars. He manipulated 
-these bookends to fly to a convenient spot,
+0:37:42.480,0:37:47.460
+他把這些飛書引誘到他想要的地方，
 
 0:37:47.460,0:37:52.740
-then used a double bookend bounce to save one A 
-press going to the top of the mansion. This was
+然後踩在兩個飛書上，省下一個到樓頂的A鍵。
 
 0:37:52.740,0:37:57.180
-useful in both Big Boo’s Balcony and Eye 
-to Eye in the Secret Room. Additionally,
+這在【陽台的大鬼】跟【秘密房間的眼球】都能省下1xA。
 
 0:37:57.180,0:38:01.500
-he was able to manipulate the Big Boo to help 
-him reach the top of this box, and then the star,
+另外他使用大鬼來幫助他到這個箱子上，然後拿到星星，
 
-0:38:01.500,0:38:06.420
-without any additional A presses. Bouncing on 
-bookends also allowed him to reach this red
+0:38:01.500,0:38:06.720
+全程不需要按A。
+踩在飛書上彈跳也讓他可以不用A拿到這個紅幣，
 
-0:38:06.420,0:38:11.160
-coin without using A, which obviously saved 
-an A press for the red coin star. But also,
+0:38:06.720,0:38:11.160
+這讓【鬼屋紅幣】省了1xA，同時也
 
 0:38:11.160,0:38:16.260
-that made the number of coins attainable 
-in 0 A presses go from 99 to 101,
+讓不按A能拿到的硬幣數量從99到101，
 
 0:38:16.260,0:38:20.520
-which meant the 100-coin star was 
-now also possible in 0 A presses.
+代表【鬼屋100硬幣】也能0xA拿到了。
 
 0:38:20.520,0:38:26.160
-Another similar method helped save an A press 
-in Hazy Maze Cave for the 100-coin star. Here,
+在《迷宮洞窟》可以用一個類似的方法來在【迷宮洞窟100硬幣】省下1xA。
 
 0:38:26.160,0:38:31.140
-swoopers were used to bounce up to get blue 
-coins and to kill a snifit. And after all
+但這裡改成是踩蝙蝠來打死snifit。
 
 0:38:31.140,0:38:35.400
-of these cute little developments, Pannenkoek 
-felt that it was time for another revolution.
+在這一堆小改進之後，Pannenkoek覺得是時候來另一場革新了。
 
-0:38:38.940,0:38:45.540
-This time, the revolution 
-was not in the game itself,
+0:38:38.940,0:38:45.740
+這次不是在遊戲上，而是技術上的革新。
 
-0:38:45.540,0:38:49.620
-but technological. He switched from Project 64 to 
-Mupen. He finally got rid of his choppy free trial
+0:38:45.740,0:38:49.620
+他從Project 64改為使用Mupen。
+他終於可以告別破爛的免費試用版
 
 0:38:49.620,0:38:56.160
-software captures, and got a proper video encoding 
-setup that is Mupen 64 direct AVI capture. But
+螢幕錄影軟體，使用Mupen 64的AVI軟體內擷取。
 
 0:38:56.160,0:39:01.680
-perhaps the biggest improvement was in TASing 
-capabilities. Project 64 only has savestates,
+但最大的改進是在軟體的TAS方便性。
+Project 64只有隨時存檔功能，
 
 0:39:01.680,0:39:05.820
-so all of his videos up to this point were 
-recorded mostly in real time, interrupted
+所以Pannenkoek到現在為止的影片都是實時錄製的，
 
 0:39:05.820,0:39:11.820
-with pauses to use savestates. Mupen 64 offered 
-frame advance, RAM watch, and many other tools
+需要的時候暫停存檔。
+Mupen 64則可以每幀播放，監控參數，跟其他一些
 
 0:39:11.820,0:39:17.040
-critical to making a good TAS. He also started 
-saving movie files of his inputs so that he could
+製作TAS時很關鍵的功能。
+同時他也開始把影片跟輸入按鍵一起存下來，
 
 0:39:17.040,0:39:21.300
-go back and improve them, share them with his 
-peers, and archive them for historians to look at,
+這樣他就能隨時回去改進，跟他的同好分享，以及讓8年後的歷史學家
 
 0:39:21.300,0:39:26.760
-8 years into the future. The result was a 
-crisp, full 30 frames per second cinematic
+回顧並記錄這段這些歷史。
+於是繼日本TAS玩家之後，
 
 0:39:26.760,0:39:31.620
-experience of the A button challenge for the 
-second time in history, after the Japanese TAS.
+清晰的30FPS A鍵挑戰影片第二次出現了。
 
 0:39:31.620,0:39:35.940
-With this new high-quality setup, he felt 
-emboldened to tackle the most daunting
+有了這個高品質的配置，他感覺可以來挑戰遊戲中
 
 0:39:35.940,0:39:42.300
-level in the game: Tick Tock Clock. He began by 
-lowering Get a Hand to 0 A presses by figuring
+最聞風喪膽的關卡了，《時鐘塔》。
+首先他把【搭乘指針】降到0xA，
 
-0:39:42.300,0:39:47.580
-out a way to get up the entire rotating platforms 
-section, by ground pounding into a buttslide face
+0:39:42.300,0:39:47.780
+他找到了用爬上這堆旋轉平台的方法，
+用砸地撞上牆讓馬力歐暈眩。
 
-0:39:47.580,0:39:52.320
-first into the wall. The bonking animation lets 
-Mario stay on the steep slope of the rotating
+0:39:47.780,0:39:52.620
+在撞牆動畫播放的時候馬力歐不會從旋轉平台上滑下來,
 
-0:39:52.320,0:39:56.820
-platform without sliding off, just long enough 
-that it has time to turn until it’s no longer
+0:39:52.620,0:39:56.980
+動畫時間足夠讓平台轉夠多使馬力歐可以站在上面。
 
-0:39:56.820,0:40:02.100
-too steep to stand on. Alkhdaniel did have 
-a similar strategy that used one A press to
+0:39:56.980,0:40:02.100
+Alkhdaniel使用一個類似的策略，先用1xA
 
 0:40:02.100,0:40:06.360
-get a little higher up at first, but Pannen’s 
-new method could do it in no A presses at all.
+來獲得一點高度，但是Pannen的新方法可以完全不用A鍵上去。
 
 0:40:06.360,0:40:12.240
-This new strategy did not only save A presses 
-for Get a Hand, of course. It turned out to be
+這個新策略不只在【搭乘指針】省A鍵，同時也
 
 0:40:12.240,0:40:17.760
-useful for pretty much every star in the level. 
-It saved the only A press left for the red coin
+是對關卡裡每個星星的改進。
+這讓【時鐘塔紅幣】從1xA變成0xA。
 
 0:40:17.760,0:40:24.840
-star. He got Roll into the Cage from 4 down to 
-3, Timed Jumps on Moving Bars from 11 down to 7
+他把【跳進籠子】從7xA減到4xA，
+【移動平台】從11xA減到7xA，
 
 0:40:24.840,0:40:30.900
-by also using a precise Heave-ho flip to save an 
-A press, and Stomp on the Thwomp from 15 down to 9
+以上配合精準的Heave-ho上拋來達成。
+用以上所有策略搭配更精準的平台移動把
 
-0:40:30.900,0:40:35.760
-with more efficient platforming combined with all 
-the other strategies, on top of also combining it
+0:40:30.900,0:40:35.960
+【時鐘塔100硬幣星星】加上【時鐘塔頂樓】從15xA減到9xA。
 
-0:40:35.760,0:40:41.460
-with the 100 coin star for good measure. Finally, 
-The Pit and the Pendulums was also improved from 6
+0:40:35.960,0:40:41.460
+最後，【洞與鐘擺】也從6xA減到了4xA，
 
 0:40:41.460,0:40:46.200
-down to 4, using the rotating red coin platforms 
-and a better jump up to save another A press.
+搭配紅幣旋轉平台與更好的跳躍方式來節省另一個A。
 
 0:40:46.860,0:40:52.320
-While he was devastating Tick Tock Clock, 
-Pannen also tackled Bowser in the Sky. The
+在他拆除《時鐘塔》的同時，Pannen也順便在研究《天上的庫巴》。
 
-0:40:52.320,0:40:57.480
-previous record of 13 A presses was relatively 
-well done, but Pannen found three spots where
+0:40:52.320,0:40:57.780
+原本13x的紀錄已經相當不錯了，但Pannen發現有三個地方可以改進。
 
-0:40:57.480,0:41:01.920
-it could be improved. First, this section 
-where precise slidekicks could let Mario
+0:40:57.780,0:41:01.920
+首先，這裡精準的滑鏟可以讓馬力歐
 
 0:41:01.920,0:41:06.900
-get around these obstacles instead of over 
-them. Second, another precise dive recover
+繞過障礙物。再來另一個精準的前撲受身
 
 0:41:06.900,0:41:11.520
-let him cross the gap between these platforms, 
-and finally, a goomba manipulation to bring it
+讓他可以越過這些平台，最後他引誘蘑菇
 
 0:41:11.520,0:41:15.660
-down to be bounced on saved a third A 
-press to bring this star down to 10.
+讓它下來被踩來省下第三個A鍵,總共剩10xA。
 
 0:41:16.260,0:41:21.960
-Pannenkoek’s next stop was Dire, Dire Docks. 
-There, his first improvement was massive:
+Pannenkoek的下一站是《可怕的港口》，
+這裡他的第一個改進就是一個大的:
 
 0:41:21.960,0:41:26.340
-he brought Pole-Jumping for Red Coins, a 
-nightmare of a star for the A button challenge,
+這裡他把【可怕的港口紅幣】，A鍵挑戰的惡夢
 
 0:41:26.340,0:41:33.600
-from 10 A presses down to 3.5. Wait, what? 
-How does that make sense? There’s actually
+從10xA減到了3.5xA。
+等等，這到底是什麼意思?
 
 0:41:33.600,0:41:37.560
-a simple explanation for it. Allow 
-me to introduce the half A press.
+這裡可以簡單的解釋一下。
+請讓我介紹0.5A鍵的意思。
 
-0:41:43.020,0:41:47.460
-Water levels are a special kind of problem for 
-the A button challenge because you need to tap
+0:41:43.020,0:41:47.760
+有水的關卡對A鍵挑戰來說帶來了一個特別的問題，
+因為要游泳需要一直不斷按A。
 
-0:41:47.460,0:41:52.320
-A constantly to swim. If you don’t press A, 
-then Mario’s underwater movement options are
+0:41:47.760,0:41:52.520
+如果不按A，馬力歐的水下移動方式就非常受限。
 
-0:41:52.320,0:41:57.240
-extremely limited. He can slowly sink down to the 
-bottom, or if he’s close enough to the surface,
+0:41:52.520,0:41:57.540
+他只能慢慢下沉，或是在接近表面的時候慢慢上浮。
 
-0:41:57.240,0:42:01.980
-slowly rise up to it. He can grab with B, 
-which moves him forward a little bit in
+0:41:57.540,0:42:02.280
+他可以按B抓東西，這讓他可以稍微向前移動。
 
-0:42:01.980,0:42:06.240
-this long animation. Or, if he gets a hold 
-of one, he can grab a koopa shell and move
+0:42:02.280,0:42:06.240
+或是如果他抓到一個龜殼
 
 0:42:06.240,0:42:11.040
-around faster for a short time. But sometimes, 
-Mario can be swimming while holding an object,
+他就能一段時間內稍微動的快一些。
+但是有時馬力歐可以拿著物品游泳，
 
 0:42:11.040,0:42:16.020
-a useful situation that we’ll discover in a 
-minute. In that case, B swimming can’t be used,
+等等就會需要這個情況。
+這樣B鍵就不能用來游泳，
 
 0:42:16.020,0:42:20.160
-because Mario would throw that object 
-instead of swimming. There is one solution:
+因為馬力歐會把東西丟掉而不是游泳。
+有一個解決辦法:
 
 0:42:20.160,0:42:24.660
-if A is held instead, Mario will swim like 
-this, including while holding an object.
+如果按著A，馬力歐就會像這樣游泳，拿著東西的時候也一樣。
 
 0:42:24.660,0:42:30.180
-But since it does require A to be held, 
-that method uses one A press. Or does it?
+但這需要A鍵被按住，所以這需要1xA，對嗎?
 
 0:42:31.020,0:42:36.360
-If you were to do the star in isolation, sure, 
-that would be true. But in the context of a full
+假設只看當下情況，對，這需要1xA。
+但假設現在是從全遊戲的角度來看，
 
-0:42:36.360,0:42:41.340
-game run, you could press A earlier for some 
-other star that requires an A press, and simply
+0:42:36.360,0:42:41.740
+你可以在其他需要按A的星星按A，然後就按著不放。
 
-0:42:41.340,0:42:46.500
-hold out that A press for as long as you need. If 
-you do that, the two A presses would combine into
+0:42:41.740,0:42:46.500
+這樣這兩個A鍵就會合併成一個很長的A鍵，
 
-0:42:46.500,0:42:52.560
-one single, long A press that achieves multiple 
-purposes at once. So why is it called three and
+0:42:46.500,0:42:52.760
+達成許多不同的功能。
+所以他為什麼叫做3.5xA呢?
 
-0:42:52.560,0:42:58.020
-a half A press? The point five notation serves 
-as a middle ground to show the duality of the
+0:42:52.760,0:42:58.020
+這個點五的表記法代表一個狀況的兩面性。
 
 0:42:58.020,0:43:03.120
-situation. When counting the star by itself, 
-you round up the A press count to 4, and when
+假如只看這個星星，我們就把A鍵使用量進位成4xA，
 
 0:43:03.120,0:43:07.620
-taking other stars in consideration as part of 
-a full game run, you would round it down to 3,
+假如是把整個遊戲的星星串聯就捨去成3xA。
 
 0:43:07.620,0:43:13.740
-because it would leech off of a previous star’s A 
-press. 3 and a half A presses is better than 4 in
+因為它可以使用前一個星星的A鍵。
+3.5xA在全遊戲比4xA鍵好，
 
 0:43:13.740,0:43:18.360
-full game runs, but worse than 3 in isolation, 
-so it makes sense to fit it in the middle.
+但在單顆星星比3xA爛，所以放.5在中間感覺蠻有道理的。
 
 0:43:19.020,0:43:23.460
-Now that that’s cleared up, how did Pannen 
-actually improve that star by so much?
+現在解釋清楚.5的部分了，那麼Pannen是怎麼把這個星星改進這麼多的呢?
 
 0:43:24.300,0:43:28.920
-First, he grabbed the Koopa shell from the 
-bottom and carried it up to the surface. If
+首先他先從底部抓一個龜殼，然後把它帶到水面。
 
 0:43:28.920,0:43:32.460
-Mario is swimming with a shell and the 
-timer expires or he touches dry land,
+如果馬力歐拿著龜殼游泳的時候龜殼的使用時間到了，或是他上岸，
 
 0:43:32.460,0:43:38.040
-the shell will disappear. This timer being quite 
-short effectively makes shells useless in normal
+龜殼就會消失。
+這段時間沒有很長，讓龜殼在正常遊戲中沒什麼用。
 
 0:43:38.040,0:43:43.080
-play. But here’s the clever part: this only 
-happens if Mario is swimming with a shell, but
+但是這邊是有趣的地方:龜殼只會在馬力歐帶著他游泳時消失，
 
 0:43:43.080,0:43:48.580
-he can also throw it. When Mario throws the shell, 
-for a few frames, he still holds on to it, but he
+但瑪力歐還是可以把它丟掉。
+馬力歐把龜殼丟掉的幾個幀內時候，他其實還是拿著它，
 
 0:43:48.580,0:43:53.700
-is no longer swimming with it. So, by throwing the 
-shell and interrupting that throw by surfacing,
+但他不算拿著龜殼游泳。所以只要把龜殼丟掉的同時上浮把動作中斷，
 
-0:43:53.700,0:43:59.640
-Mario bypasses destroying the shell and can keep 
-it indefinitely. So now, he can carry it wherever
+0:43:53.700,0:43:59.340
+馬力歐就不會把龜殼摧毀，然後就可以拿著他直到永遠。
 
-0:43:59.640,0:44:05.400
-he wants. However, the shell no longer functions 
-like an underwater koopa shell, but rather like
+0:43:59.340,0:44:05.600
+現在他就可以帶龜殼到任何地方。
+然而，這個龜殼現在的功能消失，變成一個普通的物品了。
 
-0:44:05.400,0:44:11.460
-any held object. To be able to go anywhere with 
-it, Mario needs A to be held to swim. This is
+0:44:05.600,0:44:11.460
+為了帶著這個龜殼去其他地方，馬力歐需要按著A來游泳。
 
 0:44:11.460,0:44:16.500
-why this star requires an extra half A press. 
-But where does he need to go with that shell?
+這裡就是為什麼需要額外的0.5xA。
+所以他到底要帶著龜殼去哪裡?
 
-0:44:16.500,0:44:18.540
-Dire, Dire Docks is divided into two large rooms 
-with a tunnel in the middle. In that tunnel is a
+0:44:16.500,0:44:18.340
+《可怕的港口》被中間的隧道分成兩個大房間。
 
-0:44:18.540,0:44:23.280
-loading zone, a trigger that switches between 
-the rooms when Mario crosses it. The switch
+0:44:18.340,0:44:23.080
+隧道中間有一個載入點，馬力歐跨過的時候會切換房間。
 
-0:44:23.280,0:44:27.780
-involves unloading the first room and loading 
-the second, all the objects in them included,
+0:44:23.080,0:44:27.780
+這個切換的動作包含取消載入第一個房間所有物品然後載入第二個房間，
 
 0:44:27.780,0:44:32.640
-to save memory. Now, what happens if Mario 
-goes through the loading zone and unloads
+來省遊戲記憶體。
+所以這邊馬力歐如果跨過載入點時拿著
 
 0:44:32.640,0:44:37.020
-an object that he’s currently holding, 
-like a Koopa shell? Cloning, of course!
+會被取消載入的物品，像是龜殼，能做什麼?
+當然是克隆!
 
 0:44:37.020,0:44:42.180
-After unloading the Koopa shell, Mario holds 
-a vacant slot, which can now contain newly
+取消載入龜殼之後，馬力歐拿著空物品欄位，現在可以載入
 
 0:44:42.180,0:44:46.320
-loaded objects that aren’t supposed to 
-be held. Again, with clever planning,
+一些奇怪的物品。一樣經過一些計畫，
 
 0:44:46.320,0:44:50.460
-Pannenkoek manipulated a pole to load 
-into the slot that Mario was holding,
+Pannenkoek把一根爬竿載入到馬力歐手中，
 
-0:44:50.460,0:44:54.840
-so that he would be able to carry it around 
-and throw it somewhere. Note that because
+0:44:50.460,0:44:54.640
+這樣他就可以拿著他並丟到某個地方。
 
-0:44:54.840,0:44:59.340
-poles aren’t handled by a spawner, this is an 
-instance of cloning that doesn’t duplicate,
+0:44:54.640,0:44:59.340
+因為這邊爬竿沒有載入器，所以這是一個克隆不會複製東西的例子。
 
 0:44:59.340,0:45:04.200
-but merely transports the pole. So, Pannen 
-had to be mindful of which pole he would
+只是把爬竿帶去別的地方。
+所以Pannen要注意他帶走的是哪根爬竿，
 
 0:45:04.200,0:45:08.520
-transport to make sure he didn’t get rid 
-of a pole he would need to use afterwards.
+確定他不是拿到之後需要爬的那根。
 
-0:45:08.520,0:45:12.840
-After releasing the clone, he could climb 
-it and reach the upper platform in a single
+0:45:08.520,0:45:12.940
+把爬竿放掉之後，他就可以用1xA爬到上面的平台。
 
-0:45:12.840,0:45:17.640
-A press. From here, it was mostly a matter of 
-navigating around the poles without jumping,
+0:45:12.940,0:45:17.640
+從這裡開始就是要不按A繞過爬竿，
 
 0:45:17.640,0:45:20.940
-sometimes requiring some 
-sketchy diving and grabbing.
+搭配一些簡單的前撲跟抓取。
 
 0:45:20.940,0:45:24.780
-One more jump was required to get to 
-the furthest pole, and back in the
+另一個A是用來到最遠的那根爬竿，
 
 0:45:24.780,0:45:30.060
-water he went. He needed another A press and a 
-second pole clone to reach the final red coin,
+拿到紅幣後在掉回水中。
+還有一個A跟第二個爬竿克隆用來拿到最後一個紅幣。
 
 0:45:30.060,0:45:35.460
 helped by the fact that these poles are actually 
